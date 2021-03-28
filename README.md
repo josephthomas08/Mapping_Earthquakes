@@ -26,3 +26,28 @@ The earthquake data and tectonic plate data displayed on the map when the page l
 
 <img width="1636" alt="Screen Shot 2021-03-28 at 2 50 33 AM" src="https://user-images.githubusercontent.com/75267605/112744733-a149a780-8f70-11eb-8832-b19572559815.png">
 
+
+
+
+Three layers of maps 
+
+
+
+
+<img width="1679" alt="Screen Shot 2021-03-28 at 3 18 33 AM" src="https://user-images.githubusercontent.com/75267605/112746099-cc38f900-8f7a-11eb-8a29-71838e45e3ed.png">
+
+
+
+
+
+
+<img width="1675" alt="Screen Shot 2021-03-28 at 3 18 51 AM" src="https://user-images.githubusercontent.com/75267605/112746100-cd6a2600-8f7a-11eb-95f1-9ad34d49de2a.png">
+
+
+
+
+<img width="1680" alt="Screen Shot 2021-03-28 at 3 19 07 AM" src="https://user-images.githubusercontent.com/75267605/112746102-ce02bc80-8f7a-11eb-94b7-0379e9a93b3e.png">
+
+
+
+
