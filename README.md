@@ -72,7 +72,7 @@ The d3.json() callback is working and does the following:
 
 
 
-##### 4. All date together 
+##### 4. All data together 
 
 
 
