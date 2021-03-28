@@ -65,13 +65,12 @@ The d3.json() callback is working and does the following:
 
 
 ## Deliverable 3 
-You will earn a perfect score for Deliverable 3 by completing all requirements below:
 
 A third map tile layer is created 
 The third map is added to the overlay object
 All the earthquake data and tectonic plate data are displayed on the all maps of the webpage 
 
-Three layers of maps 
+### Three layers of maps 
 
 
 
