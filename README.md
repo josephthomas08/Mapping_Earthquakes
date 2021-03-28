@@ -24,6 +24,5 @@ The earthquake data and tectonic plate data displayed on the map when the page l
 
 
 
-
-<img width="1673" alt="D1 " src="https://user-images.githubusercontent.com/75267605/112744495-92fa8c00-8f6e-11eb-8938-46c85489a8b3.png">
+<img width="1636" alt="Screen Shot 2021-03-28 at 2 50 33 AM" src="https://user-images.githubusercontent.com/75267605/112744733-a149a780-8f70-11eb-8832-b19572559815.png">
 
