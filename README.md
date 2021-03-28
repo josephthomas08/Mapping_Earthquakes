@@ -14,13 +14,13 @@ Our  approach will be to use the JavaScript and the D3.js library to retrieve th
 ## Deliverable 1 
 You will earn a perfect score for Deliverable 1 by completing all requirements below:
 
-The tectonic plate data is added as a second layer group (10 pt)
-The tectonic plate data is added to the overlay object (10 pt)
-The d3.json() callback is working and does the following: (10 pt)
-The tectonic plate data is passed to the geoJSON() layer
-The geoJSON() layer adds color and width to the tectonic plate lines
-The tectonic layer group variable is added to the map
-The earthquake data and tectonic plate data displayed on the map when the page loads (5 pt)
+The tectonic plate data is added as a second layer group 
+The tectonic plate data is added to the overlay object 
+The d3.json() callback is working and does the following:
+**** 1.The tectonic plate data is passed to the geoJSON() layer
+**** 2. The geoJSON() layer adds color and width to the tectonic plate lines
+**** 3.The tectonic layer group variable is added to the map
+**** 4. The earthquake data and tectonic plate data displayed on the map when the page loads 
 
 
 
@@ -28,6 +28,48 @@ The earthquake data and tectonic plate data displayed on the map when the page l
 
 
 
+
+## Deliverable 2 
+
+
+The major earthquake data is added as a third layer group 
+The major earthquake data is added to the overlay object 
+The d3.json() callback is working and does the following: 
+**** 1. Sets the color and diameter of each earthquake.
+**** 2. The major earthquake data is passed to the geoJSON() layer.
+**** 3. The geoJSON() layer creates a circle for each major earthquake, and adds a popup for each circle to display the magnitude and location of the earthquake
+**** 4. The major earthquake layer group variable is added to the map
+**** 5. All the earthquake data and tectonic plate data are displayed on the map when the page loads and the datasets can be toggled on or off (5 pt)
+
+
+
+<img width="1675" alt="Tectonic plates " src="https://user-images.githubusercontent.com/75267605/112754338-96f7cf80-8fa9-11eb-9457-7ef82e8203ee.png">
+
+
+
+<img width="1678" alt="Eathquakes" src="https://user-images.githubusercontent.com/75267605/112754342-9e1edd80-8fa9-11eb-8446-cf0c423d1f46.png">
+
+
+
+
+<img width="1677" alt="Major Earthquakes " src="https://user-images.githubusercontent.com/75267605/112754349-a37c2800-8fa9-11eb-8e6f-1b1c25dfbfe5.png">
+
+
+
+
+
+<img width="1674" alt="D2 3 3" src="https://user-images.githubusercontent.com/75267605/112754365-c1498d00-8fa9-11eb-9deb-77880ba22e3d.png">
+
+
+
+
+
+## Deliverable 3 
+You will earn a perfect score for Deliverable 3 by completing all requirements below:
+
+A third map tile layer is created 
+The third map is added to the overlay object
+All the earthquake data and tectonic plate data are displayed on the all maps of the webpage 
 
 Three layers of maps 
 
