@@ -39,6 +39,7 @@ let map = L.map('mapid', {
 });
 
 // Create a base layer that holds all three maps.
+// added additiional basemap for light version.
 let baseMaps = {
   "Streets": streets,
   "Satellite": satelliteStreets,
